@@ -1,7 +1,6 @@
 ## Hi! 👋 <a href='https://github.com/ycamarasa'>I'm Yolanda</a>
 #### I'm frontend developer | UX/UI Enthusiast
 
-<img align="right" height="200px" alt="Y's photo" src="https://speed-hire.netlify.app/yo.jpg" data-canonical-src="https://speed-hire.netlify.app/yo.jpg">
 
 
 Bringing digital projects to life by blending creativity and code to develop experiences that leave a lasting impact, with a constant commitment to learning and growth.
@@ -10,7 +9,6 @@ Bringing digital projects to life by blending creativity and code to develop exp
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
