@@ -1,11 +1,11 @@
-## Hi! 👋 <a href='https://github.com/ycamarasa'>I'm Yolanda</a>
-#### I'm frontend developer | UX/UI Enthusiast
-Bringing digital projects to life by blending creativity and code to develop experiences that leave a lasting impact, with a constant commitment to learning and growth ✨
-
+### Hi! Welcome! 👋 <a href='https://github.com/ycamarasa'>I'm Yolanda</a> 
 <img src="https://github.com/ycamarasa/speed-hire/blob/main/public/safe.png" width="100%" />
 
+#### I'm frontend developer | UX/UI Enthusiast
+<samp>Bringing digital projects to life by blending creativity and code to develop experiences that leave a lasting impact, with a constant commitment to learning and growth ✨</samp>
 
-### Technologies
+#### Technologies
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -36,17 +36,18 @@ Bringing digital projects to life by blending creativity and code to develop exp
 
 <br/>
 
-📫 Contact me: y.camarasa@gmail.com 
+📫 <samp> Contact me: y.camarasa@gmail.com </samp>
 
 <br/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'>](https://github.com/ycamarasa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/https://www.linkedin.com/in/y-c-c//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='35'>](https://www.instagram.com/https://www.instagram.com/y.camasasa/?hl=es/)  
 
-
+<samp>
 <sub>
-Credits: The image belongs to <a href="https://louisdurrant.art/">Louis Durrant</a><br>
+Credits: The banner image belongs to <a href="https://louisdurrant.art/">Louis Durrant</a><br>
 <a href="https://www.artstation.com/artwork/3o8DmE">A Safe Landing</a> I love this artist ❤️✨💖
 </sub>
+</samp>
 <!--
 **ycamarasa/ycamarasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
