@@ -2,7 +2,7 @@
 #### I'm frontend developer | UX/UI Enthusiast
 Bringing digital projects to life by blending creativity and code to develop experiences that leave a lasting impact, with a constant commitment to learning and growth ✨
 
-<img src="https://github.com/ycamarasa/speed-hire/blob/main/public/SafeLanding.jpg" width="100%" />
+<img src="https://github.com/ycamarasa/speed-hire/blob/main/public/safe.png" width="100%" />
 
 
 ### Technologies
