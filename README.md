@@ -1,6 +1,16 @@
 ### Hi! Welcome! 👋 <a href='https://github.com/ycamarasa'>I'm Yolanda</a> 
 <img src="https://github.com/ycamarasa/speed-hire/blob/main/public/safe.png" width="100%" />
 
+<!--
+<samp>
+<details>
+<summary>Do not click</summary>
+
+<br>
+</details>
+</samp>
+-->
+
 #### I'm frontend developer | UX/UI Enthusiast
 <samp>Bringing digital projects to life by blending creativity and code to develop experiences that leave a lasting impact, with a constant commitment to learning and growth ✨</samp>
 
@@ -48,6 +58,10 @@ Credits: The banner image belongs to <a href="https://louisdurrant.art/">Louis D
 <a href="https://www.artstation.com/artwork/3o8DmE">A Safe Landing</a> I love this artist ❤️✨💖
 </sub>
 </samp>
+
+<br/>
+<br/>
+
 <!--
 **ycamarasa/ycamarasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
