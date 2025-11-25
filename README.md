@@ -16,7 +16,10 @@
 
 #### Technologies
 
-
+![Sap](https://img.shields.io/badge/SAP%20Commerce%20Cloud-%230057D2.svg?style=Flat&logo=sap&logoColor=white)
+![Sap](https://img.shields.io/badge/SAP%20Emarsys-%230057D2.svg?style=Flat&logo=sap&logoColor=white)
+![Sap](https://img.shields.io/badge/SmartEdit-%230057D2.svg?style=Flat&logo=sap&logoColor=white)
+![Sap](https://img.shields.io/badge/SAP%20Composable%20Storefront%20(Spatacus)-%230057D2.svg?style=Flat&logo=sap&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=Flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=Flat&logo=typescript&logoColor=white)
