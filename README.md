@@ -1,9 +1,9 @@
 ## Hi! 👋 <a href='https://github.com/ycamarasa'>I'm Yolanda</a>
 #### I'm frontend developer | UX/UI Enthusiast
+Bringing digital projects to life by blending creativity and code to develop experiences that leave a lasting impact, with a constant commitment to learning and growth ✨
 
+<img src="https://github.com/ycamarasa/speed-hire/blob/main/public/SafeLanding.jpg" width="100%" />
 
-
-Bringing digital projects to life by blending creativity and code to develop experiences that leave a lasting impact, with a constant commitment to learning and growth.
 
 ### Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -41,6 +41,12 @@ Bringing digital projects to life by blending creativity and code to develop exp
 <br/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'>](https://github.com/ycamarasa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/https://www.linkedin.com/in/y-c-c//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='35'>](https://www.instagram.com/https://www.instagram.com/y.camasasa/?hl=es/)  
+
+
+<sub>
+Credits: The image belongs to <a href="https://louisdurrant.art/">Louis Durrant</a><br>
+<a href="https://www.artstation.com/artwork/3o8DmE">A Safe Landing</a> I love this artist ❤️✨💖
+</sub>
 <!--
 **ycamarasa/ycamarasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -55,5 +61,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[https://speed-hire.netlify.app/yo.jpg](
+https://speed-hire.netlify.app/yo.jpg
 -->
