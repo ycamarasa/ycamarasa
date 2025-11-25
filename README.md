@@ -1,6 +1,7 @@
 ### Hi! Welcome! 👋 <a href='https://github.com/ycamarasa'>I'm Yolanda</a> 
 <img src="https://github.com/ycamarasa/speed-hire/blob/main/public/safe.png" width="100%" />
 
+
 <!--
 <samp>
 <details>
@@ -66,6 +67,10 @@ Credits: The banner image belongs to <a href="https://louisdurrant.art/">Louis D
 
 <br/>
 <br/>
+
+
+![Github Views](https://views.igorkowalczyk.dev/api/badge/YCAMARASA?label=Profile+views&style=classic&color=ff69b4) ✨
+
 
 <!--
 **ycamarasa/ycamarasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
