@@ -47,8 +47,14 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=Flat&logo=adobe%20illustrator&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=Flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=Flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=Flat&logo=gitlab&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=Flat&logo=eslint&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-%234B3263?style=Flat&logo=eslint&logoColor=white)
+
+![Mapbox](https://img.shields.io/badge/Mapbox-%23000000?style=Flat&logo=mapbox&logoColor=white)
+
+
+
 
 <br/>
 
