@@ -31,6 +31,7 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=Flat&logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=Flat&logo=reactivex&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=Flat&logo=bootstrap&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/primeng-%23DD0031.svg?style=Flat&logo=primeng&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=Flat&logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=Flat&logo=daisyui&logoColor=white)
 
