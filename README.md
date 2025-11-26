@@ -1,16 +1,14 @@
 ### Hi! Welcome! 👋 <a href='https://github.com/ycamarasa'>I'm Yolanda</a> 
 <img src="https://github.com/ycamarasa/speed-hire/blob/main/public/safe.png" width="100%" />
 
-
-<!--
 <samp>
-<details>
-<summary>Do not click</summary>
-
-<br>
-</details>
+  <details>
+    <summary>Don't click</summary>
+      <img src="https://media1.tenor.com/m/BASR6IArjKwAAAAC/trap-its-a-trap.gif" width="100%" />
+      <br>
+  </details>
 </samp>
--->
+
 
 #### I'm frontend developer | UX/UI Enthusiast
 <samp>Bringing digital projects to life by blending creativity and code to develop experiences that leave a lasting impact, with a constant commitment to learning and growth ✨</samp>
@@ -54,8 +52,6 @@
 ![Mapbox](https://img.shields.io/badge/Mapbox-%23000000?style=Flat&logo=mapbox&logoColor=white)
 
 
-
-
 <br/>
 
 📫 <samp> Contact me: y.camarasa@gmail.com </samp>
@@ -65,10 +61,10 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'>](https://github.com/ycamarasa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/https://www.linkedin.com/in/y-c-c//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='35'>](https://www.instagram.com/https://www.instagram.com/y.camasasa/?hl=es/)  
 
 <samp>
-<sub>
-Credits: The banner image belongs to <a href="https://louisdurrant.art/">Louis Durrant</a><br>
-<a href="https://www.artstation.com/artwork/3o8DmE">A Safe Landing</a> I love this artist ❤️✨💖
-</sub>
+  <sub>
+    Credits: The banner image belongs to <a href="https://louisdurrant.art/">Louis Durrant</a><br>
+    <a href="https://www.artstation.com/artwork/3o8DmE">A Safe Landing</a> I love this artist ❤️✨💖
+  </sub>
 </samp>
 
 <br/>
