@@ -4,6 +4,7 @@
 <samp>
   <details>
     <summary>Don't click</summary>
+      I told you!! Don’t click Ò_Ó
       <img src="https://media1.tenor.com/m/BASR6IArjKwAAAAC/trap-its-a-trap.gif" width="100%" />
       <br>
   </details>
