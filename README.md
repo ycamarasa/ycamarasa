@@ -51,6 +51,9 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=Flat&logo=gitlab&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-%234B3263?style=Flat&logo=eslint&logoColor=white)
 
+![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=Flat&logo=jasmine&logoColor=white)
+![Karma](https://img.shields.io/badge/Karma-%232a9c8a?style=Flat)
+
 ![Mapbox](https://img.shields.io/badge/Mapbox-%23000000?style=Flat&logo=mapbox&logoColor=white)
 
 
