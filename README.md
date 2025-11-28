@@ -16,20 +16,20 @@
 
 #### Technologies
 
-![Sap](https://img.shields.io/badge/SAP%20Commerce%20Cloud-%230057D2.svg?style=Flat&logo=sap&logoColor=white)
-![Sap](https://img.shields.io/badge/SAP%20Emarsys-%230057D2.svg?style=Flat&logo=sap&logoColor=white)
-![Sap](https://img.shields.io/badge/SAP%20SmartEdit-%230057D2.svg?style=Flat&logo=sap&logoColor=white)
-![Sap](https://img.shields.io/badge/SAP%20Composable%20Storefront%20(Spartacus)-%230057D2.svg?style=Flat&logo=sap&logoColor=white)
+![Sap_hybris](https://img.shields.io/badge/SAP%20Commerce%20Cloud-%230057D2.svg?style=Flat&logo=sap&logoColor=white)
+![Sap_spartacus](https://img.shields.io/badge/SAP%20Composable%20Storefront%20(Spartacus)-%230057D2.svg?style=Flat&logo=sap&logoColor=white)
+![Sap_smartEdit](https://img.shields.io/badge/SAP%20SmartEdit-%230057D2.svg?style=Flat&logo=sap&logoColor=white)
+![Sap_emarsys](https://img.shields.io/badge/SAP%20Emarsys-%230057D2.svg?style=Flat&logo=sap&logoColor=white)
 
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=Flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=Flat&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=Flat&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=Flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=Flat&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=Flat&logo=SASS&logoColor=white)
 ![Less](https://img.shields.io/badge/less-2B4C80?style=Flat&logo=less&logoColor=white)
-
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=Flat&logo=angular&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=Flat&logo=jquery&logoColor=white)
+
 ![RxJS](https://img.shields.io/badge/RxJS-%23B7178C.svg?style=Flat&logo=reactivex&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=Flat&logo=bootstrap&logoColor=white)
 ![PrimeNG](https://img.shields.io/badge/PrimeNG-%23DD0031.svg?style=Flat&logo=primeng&logoColor=white)
