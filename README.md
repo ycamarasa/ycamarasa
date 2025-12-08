@@ -17,7 +17,7 @@
   Bringing digital projects to life by blending creativity and code to develop experiences that leave a lasting impact, with a constant commitment to learning and growth ✨
   <br/>
 
-  <strong>Fun fact:</strong> I was born on March 14th 3️⃣.1️⃣4️⃣🎂 , which is known as [Pi Day](https://es.wikipedia.org/wiki/D%C3%ADa_de_%CF%80) 
+  <strong>Fun fact:</strong> I was born on March 14th 3️⃣.1️⃣4️⃣🎂 , which is known as [Pi Day ℼ](https://es.wikipedia.org/wiki/D%C3%ADa_de_%CF%80) 
 
 </samp>
 
