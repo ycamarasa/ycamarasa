@@ -34,20 +34,23 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=Flat&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=Flat&logo=SASS&logoColor=white)
 ![Less](https://img.shields.io/badge/less-2B4C80?style=Flat&logo=less&logoColor=white)
+
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=Flat&logo=angular&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=Flat&logo=jquery&logoColor=white)
-
 ![RxJS](https://img.shields.io/badge/RxJS-%23B7178C.svg?style=Flat&logo=reactivex&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=Flat&logo=bootstrap&logoColor=white)
 ![PrimeNG](https://img.shields.io/badge/PrimeNG-%23DD0031.svg?style=Flat&logo=primeng&logoColor=white)
+
 ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=Flat&logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=Flat&logo=daisyui&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-%23FF0000?style=Flat)
+![JSTL](https://img.shields.io/badge/JSTL-%23FF0000?style=Flat)
+![AG Grid](https://img.shields.io/badge/AG%20Grid-%23003672?style=Flat)
 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=Flat&logo=eslint&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Linux%20Ubuntu-E95420?style=Flat&logo=ubuntu&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=Flat&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=Flat&logo=Trello&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=Flat&logo=docker&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=Flat&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=Flat&logo=adobe%20photoshop&logoColor=white)
@@ -100,5 +103,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-https://speed-hire.netlify.app/yo.jpg
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=Flat&logo=docker&logoColor=white)
 -->
