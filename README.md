@@ -50,6 +50,9 @@
 ![JSTL](https://img.shields.io/badge/JSTL-%23FF0000?style=Flat)
 ![AG Grid](https://img.shields.io/badge/AG%20Grid-%23003672?style=Flat)
 
+![Lit](https://img.shields.io/badge/lit-%23324FFF.svg?style=fat&logo=lit&logoColor=white)
+![Web Components](https://img.shields.io/badge/Web%20Components-%23003672?style=Flat)
+
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=Flat&logo=eslint&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Linux%20Ubuntu-E95420?style=Flat&logo=ubuntu&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=Flat&logo=jira&logoColor=white)
