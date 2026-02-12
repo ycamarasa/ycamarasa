@@ -1,5 +1,5 @@
 ### Hi! Welcome! 👋 <a href='https://github.com/ycamarasa'>I'm Yolanda</a> 
-<img src="https://github.com/ycamarasa/speed-hire/blob/main/public/safe.png" width="100%" />
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQHM9fkX_R2mWw/profile-displaybackgroundimage-shrink_200_800/B4EZxPA30GHQAU-/0/1770852155702?e=1772668800&v=beta&t=nc2Yi31-c07uU09hHK5Oi2Zui_B1OKVhe1B_gkAoHfQ" width="100%" />
 
 <samp>
   <details>
@@ -21,6 +21,18 @@
   <br/>
   
   <strong>Fun fact:</strong> I was born on March 14th, which is known as [Pi Day ℼ](https://es.wikipedia.org/wiki/D%C3%ADa_de_%CF%80) 3️⃣.1️⃣4️⃣🎂 
+
+</samp>
+
+
+#### Some web projects I’ve done
+<samp>
+  
+[https://trifori-arquitectes.com](https://trifori-arquitectes.com)
+
+[Impex-Plugin-YCC for VSCode](https://marketplace.visualstudio.com/items?itemName=Yolanda-Camarasa.impex-plugin-ycc&ssr=false#review-details)
+
+[https://mapbox-do-more.netlify.app/](https://mapbox-do-more.netlify.app/)
 
 </samp>
 
@@ -83,17 +95,12 @@
 
 <samp>
   <sub>
-    Credits: The banner image belongs to <a href="https://louisdurrant.art/">Louis Durrant</a><br>
-    <a href="https://www.artstation.com/artwork/3o8DmE">A Safe Landing</a> I love this artist ❤️✨💖
+    Made with ❤️✨💖
   </sub>
 </samp>
 
 <br/>
 <br/>
-
-
-![Github Views](https://views.igorkowalczyk.dev/api/badge/YCAMARASA?label=Profile+views&style=classic&color=ff69b4) ✨
-
 
 <!--
 **ycamarasa/ycamarasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
