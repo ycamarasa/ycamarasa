@@ -1,31 +1,29 @@
-### Hi! Welcome! 👋 <a href='https://github.com/ycamarasa'>I'm Yolanda</a> 
+### Hi! You’re very welcome here! 👋 <a href='https://github.com/ycamarasa'>I'm Yolanda</a> 
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQHM9fkX_R2mWw/profile-displaybackgroundimage-shrink_200_800/B4EZxPA30GHQAU-/0/1770852155702?e=1772668800&v=beta&t=nc2Yi31-c07uU09hHK5Oi2Zui_B1OKVhe1B_gkAoHfQ" width="100%" />
 
 <samp>
   <details>
     <summary>Don't click</summary>
-      I told you!! Don’t click Ò_Ó
+      <b>I told you!! Don’t click Ò_Ó</b>
       <img src="https://media1.tenor.com/m/BASR6IArjKwAAAAC/trap-its-a-trap.gif" width="100%" />
       <br>
   </details>
 </samp>
 
+<br/>
 
 #### I'm frontend developer | UX/UI Enthusiast
 <samp>
 
-  Bringing digital projects to life by blending creativity and code to develop experiences that leave a lasting impact, with a constant commitment to learning and growth ✨
-  <br/>
-  <br/>
-  I've made this <b>plugin for Visual Studio Code</b>, feel free to download and use it: [impex-plugin-ycc](https://marketplace.visualstudio.com/items?itemName=Yolanda-Camarasa.impex-plugin-ycc&ssr=false#review-details)
-  <br/>
+  Anyone can build happy paths I build the rest, with a constant commitment to learning and growth ✨
   
   <strong>Fun fact:</strong> I was born on March 14th, which is known as [Pi Day ℼ](https://es.wikipedia.org/wiki/D%C3%ADa_de_%CF%80) 3️⃣.1️⃣4️⃣🎂 
 
 </samp>
 
-
-#### Some web projects I’ve done
+<br/>
+  
+#### Some projects I’ve done
 <samp>
   
 [https://trifori-arquitectes.com](https://trifori-arquitectes.com)
@@ -36,6 +34,8 @@
 
 </samp>
 
+<br/>
+
 #### Technologies
 
 ![Sap_hybris](https://img.shields.io/badge/SAP%20Commerce%20Cloud-%230057D2.svg?style=Flat&logo=sap&logoColor=white)
@@ -44,16 +44,16 @@
 ![Sap_emarsys](https://img.shields.io/badge/SAP%20Emarsys-%230057D2.svg?style=Flat&logo=sap&logoColor=white)
 
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=Flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=Flat&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=Flat&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=Flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=Flat&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=Flat&logo=SASS&logoColor=white)
 ![Less](https://img.shields.io/badge/less-2B4C80?style=Flat&logo=less&logoColor=white)
 
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=Flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=fat&logo=react&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=Flat&logo=jquery&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-%23B7178C.svg?style=Flat&logo=reactivex&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=Flat&logo=bootstrap&logoColor=white)
 ![PrimeNG](https://img.shields.io/badge/PrimeNG-%23DD0031.svg?style=Flat&logo=primeng&logoColor=white)
 
 ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=Flat&logo=tailwind-css&logoColor=white)
@@ -62,7 +62,8 @@
 ![JSTL](https://img.shields.io/badge/JSTL-%23FF0000?style=Flat)
 ![AG Grid](https://img.shields.io/badge/AG%20Grid-%23003672?style=Flat)
 
-![Lit](https://img.shields.io/badge/lit-%23324FFF.svg?style=fat&logo=lit&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=Flat&logo=bootstrap&logoColor=white)
+![Lit](https://img.shields.io/badge/Lit-%23324FFF.svg?style=fat&logo=lit&logoColor=white)
 ![Web Components](https://img.shields.io/badge/Web%20Components-%23003672?style=Flat)
 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=Flat&logo=eslint&logoColor=white)
@@ -91,7 +92,7 @@
 
 <br/>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'>](https://github.com/ycamarasa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/https://www.linkedin.com/in/y-c-c//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='35'>](https://www.instagram.com/https://www.instagram.com/y.camasasa/?hl=es/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/ycamarasa) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/https://www.linkedin.com/in/y-c-c//) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/https://www.instagram.com/y.camasasa/?hl=es/)  
 
 <samp>
   <sub>
