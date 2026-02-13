@@ -13,9 +13,25 @@
 <br/>
 
 #### I'm frontend developer | UX/UI Enthusiast
-<samp>
 
-  Anyone can build happy paths I build the rest, with a constant commitment to learning and growth ✨
+<samp>
+  
+##### 🎨 Multidisciplinary profile:
+
+Background in web development, graphic design, secretarial studies, and fashion. This diversity reflects:
+
+<pre>
+🌱 Curiosity
+
+🔄 Adaptability
+
+💡 A constant pursuit of innovative solutions
+
+🧠 Lateral thinking: enables me to approach challenges from creative perspectives and develop unique solutions.
+</pre>
+
+I am not afraid of change and genuinely enjoy continuous learning and growth. ✨
+
   
   <strong>Fun fact:</strong> I was born on March 14th, which is known as [Pi Day ℼ](https://es.wikipedia.org/wiki/D%C3%ADa_de_%CF%80) 3️⃣.1️⃣4️⃣🎂 
 
@@ -37,54 +53,48 @@
 <br/>
 
 #### Technologies
+<div >
+  
+![Sap_hybris](https://img.shields.io/badge/SAP%20Commerce%20Cloud-%230057D2.svg?style=for-the-badge&logo=sap&logoColor=white)
+![Sap_spartacus](https://img.shields.io/badge/SAP%20Composable%20Storefront(Spartacus)%20-%230057D2.svg?style=for-the-badge&logo=sap&logoColor=white)
+![Sap_smartEdit](https://img.shields.io/badge/SAP%20SmartEdit-%230057D2.svg?style=for-the-badge&logo=sap&logoColor=white)
+![Sap_emarsys](https://img.shields.io/badge/SAP%20Emarsys-%230057D2.svg?style=for-the-badge&logo=sap&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-%23FF0000?style=for-the-badge)
+![JSTL](https://img.shields.io/badge/JSTL-%23FF0000?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-%23DD0031.svg?style=for-the-badge&logo=primeng&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![AG Grid](https://img.shields.io/badge/AG%20Grid-%23003672?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Lit](https://img.shields.io/badge/Lit-%23324FFF.svg?style=for-the-badge&logo=lit&logoColor=white)
+![Web Components](https://img.shields.io/badge/Web%20Components-%23003672?style=for-the-badge)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Linux%20Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-%234B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Jasmine](https://img.shields.io/badge/Jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
+![Karma](https://img.shields.io/badge/Karma-%232a9c8a?style=for-the-badge)
+![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
+![Mapbox](https://img.shields.io/badge/Mapbox-%23000000?style=for-the-badge&logo=mapbox&logoColor=white)
 
-![Sap_hybris](https://img.shields.io/badge/SAP%20Commerce%20Cloud-%230057D2.svg?style=Flat&logo=sap&logoColor=white)
-![Sap_spartacus](https://img.shields.io/badge/SAP%20Composable%20Storefront%20(Spartacus)-%230057D2.svg?style=Flat&logo=sap&logoColor=white)
-![Sap_smartEdit](https://img.shields.io/badge/SAP%20SmartEdit-%230057D2.svg?style=Flat&logo=sap&logoColor=white)
-![Sap_emarsys](https://img.shields.io/badge/SAP%20Emarsys-%230057D2.svg?style=Flat&logo=sap&logoColor=white)
-
-![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=Flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=Flat&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=Flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=Flat&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=Flat&logo=SASS&logoColor=white)
-![Less](https://img.shields.io/badge/less-2B4C80?style=Flat&logo=less&logoColor=white)
-
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=Flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=fat&logo=react&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=Flat&logo=jquery&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-%23B7178C.svg?style=Flat&logo=reactivex&logoColor=white)
-![PrimeNG](https://img.shields.io/badge/PrimeNG-%23DD0031.svg?style=Flat&logo=primeng&logoColor=white)
-
-![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=Flat&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=Flat&logo=daisyui&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-%23FF0000?style=Flat)
-![JSTL](https://img.shields.io/badge/JSTL-%23FF0000?style=Flat)
-![AG Grid](https://img.shields.io/badge/AG%20Grid-%23003672?style=Flat)
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=Flat&logo=bootstrap&logoColor=white)
-![Lit](https://img.shields.io/badge/Lit-%23324FFF.svg?style=fat&logo=lit&logoColor=white)
-![Web Components](https://img.shields.io/badge/Web%20Components-%23003672?style=Flat)
-
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=Flat&logo=eslint&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Linux%20Ubuntu-E95420?style=Flat&logo=ubuntu&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=Flat&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=Flat&logo=Trello&logoColor=white)
-
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=Flat&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=Flat&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=Flat&logo=adobe%20illustrator&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=Flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=Flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=Flat&logo=gitlab&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-%234B3263?style=Flat&logo=eslint&logoColor=white)
-
-![Jasmine](https://img.shields.io/badge/Jasmine-%238A4182.svg?style=Flat&logo=jasmine&logoColor=white)
-![Karma](https://img.shields.io/badge/Karma-%232a9c8a?style=Flat)
-
-![Mapbox](https://img.shields.io/badge/Mapbox-%23000000?style=Flat&logo=mapbox&logoColor=white)
-
+</div>
 
 <br/>
 
