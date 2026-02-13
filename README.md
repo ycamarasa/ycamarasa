@@ -56,7 +56,7 @@ I am not afraid of change and genuinely enjoy continuous learning and growth. âœ
 <div >
   
 ![Sap_hybris](https://img.shields.io/badge/SAP%20Commerce%20Cloud-%230057D2.svg?style=for-the-badge&logo=sap&logoColor=white)
-![Sap_spartacus](https://img.shields.io/badge/SAP%20Composable%20Storefront(Spartacus)%20-%230057D2.svg?style=for-the-badge&logo=sap&logoColor=white)
+![Sap_spartacus](https://img.shields.io/badge/SAP%20Composable%20Storefront%20-%230057D2.svg?style=for-the-badge&logo=sap&logoColor=white)
 ![Sap_smartEdit](https://img.shields.io/badge/SAP%20SmartEdit-%230057D2.svg?style=for-the-badge&logo=sap&logoColor=white)
 ![Sap_emarsys](https://img.shields.io/badge/SAP%20Emarsys-%230057D2.svg?style=for-the-badge&logo=sap&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-%23FF0000?style=for-the-badge)
@@ -89,9 +89,9 @@ I am not afraid of change and genuinely enjoy continuous learning and growth. âœ
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-%234B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
 ![Jasmine](https://img.shields.io/badge/Jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
 ![Karma](https://img.shields.io/badge/Karma-%232a9c8a?style=for-the-badge)
-![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
 ![Mapbox](https://img.shields.io/badge/Mapbox-%23000000?style=for-the-badge&logo=mapbox&logoColor=white)
 
 </div>
