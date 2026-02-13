@@ -28,7 +28,7 @@
   
 [https://trifori-arquitectes.com](https://trifori-arquitectes.com)
 
-[Impex-Plugin-YCC for VSCode](https://marketplace.visualstudio.com/items?itemName=Yolanda-Camarasa.impex-plugin-ycc&ssr=false#review-details)
+[Impex-Plugin-YCC for VS Code](https://marketplace.visualstudio.com/items?itemName=Yolanda-Camarasa.impex-plugin-ycc&ssr=false#review-details)
 
 [https://mapbox-do-more.netlify.app/](https://mapbox-do-more.netlify.app/)
 
