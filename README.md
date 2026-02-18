@@ -1,5 +1,5 @@
 ### Hi! You’re very welcome here! 👋 <a href='https://github.com/ycamarasa'>I'm Yolanda</a> 
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQHM9fkX_R2mWw/profile-displaybackgroundimage-shrink_200_800/B4EZxPA30GHQAU-/0/1770852155702?e=1772668800&v=beta&t=nc2Yi31-c07uU09hHK5Oi2Zui_B1OKVhe1B_gkAoHfQ" width="100%" />
+<img src="https://github.com/ycamarasa/ycamarasa/blob/main/bannerIN.png" width="100%" />
 
 <samp>
   <details>
