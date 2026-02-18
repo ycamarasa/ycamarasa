@@ -1,4 +1,3 @@
-### Hi! You’re very welcome here! 👋 <a href='https://github.com/ycamarasa'>I'm Yolanda</a> 
 <img src="https://github.com/ycamarasa/ycamarasa/blob/main/newbanner.png" width="100%" />
 
 <samp>
@@ -95,6 +94,13 @@ I am not afraid of change and genuinely enjoy continuous learning and growth. �
 ![Mapbox](https://img.shields.io/badge/Mapbox-%23000000?style=for-the-badge&logo=mapbox&logoColor=white)
 
 </div>
+
+<br/>
+
+
+#### My beautiful patchwork quilt
+
+<img src="https://github.com/ycamarasa/ycamarasa/blob/main/bannerIN.png" width="100%" />
 
 <br/>
 
