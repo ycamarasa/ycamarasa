@@ -1,4 +1,4 @@
-<img src="https://github.com/ycamarasa/ycamarasa/blob/main/B2.png" width="100%" />
+<img src="https://github.com/ycamarasa/ycamarasa/blob/main/Group%20211.png" width="100%" />
 
 <samp>
   <details>
