@@ -34,6 +34,8 @@ I am not afraid of change and genuinely enjoy continuous learning and growth. �
   
   <strong>Fun fact:</strong> I was born on March 14th, which is known as [Pi Day ℼ](https://es.wikipedia.org/wiki/D%C3%ADa_de_%CF%80) 3️⃣.1️⃣4️⃣🎂 
 
+[https://314piday.netlify.app](https://314piday.netlify.app/)
+
 </samp>
 
 <br/>
